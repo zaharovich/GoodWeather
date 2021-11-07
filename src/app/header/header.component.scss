@@ -1,0 +1,14 @@
+.header {
+  padding-top: 50px;
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .logo {
+      img {
+        max-width: 250px;
+      }
+  }
+}
+
