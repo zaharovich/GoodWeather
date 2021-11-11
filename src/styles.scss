@@ -25,8 +25,13 @@
   src: url("./assets/fonts/GothamPro-Bold.ttf");
 }
 
+body {
+  overflow: hidden;
+}
+
 .container {
   width: 100%;
   max-width: 1070px;
   margin: 0 auto;
+  padding: 0 20px;
 }
