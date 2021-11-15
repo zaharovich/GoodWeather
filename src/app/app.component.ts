@@ -37,14 +37,5 @@ export class AppComponent{
         this.input = 'input error';
         this.errResponse = err
       })
-
   }
-
-
-
-
-
-
-
-
 }
